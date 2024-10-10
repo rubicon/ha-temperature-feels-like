@@ -12,7 +12,7 @@
 
 [![Community Forum][forum-shield]][forum]
 
-_Sensor of Temperature Feels Like for Home Assistant._
+_Sensor of Apparent Temperature for Home Assistant._
 
 ## Features:
 
@@ -24,7 +24,7 @@ _Sensor of Temperature Feels Like for Home Assistant._
 ## Installation
 
 1. Click install.
-1. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Temperature Feels Like".
+1. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Apparent Temperature".
 
 {% endif %}
 ## Useful Links
@@ -38,7 +38,7 @@ I put a lot of work into making this repo and component available and updated to
 <p align="center"><br>
 <a href="https://www.patreon.com/join/limych?" target="_blank"><img src="http://khrolenok.ru/support_patreon.png" alt="Patreon" width="250" height="48"></a>
 <br>or&nbsp;support via Bitcoin or Etherium:<br>
-<a href="https://sochain.com/a/mjz640g" target="_blank"><img src="http://khrolenok.ru/support_bitcoin.png" alt="Bitcoin" width="150"><br>
+<a href="https://sochain.com/address/BTC/16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts" target="_blank"><img src="http://khrolenok.ru/support_bitcoin.png" alt="Bitcoin" width="150"><br>
 16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts</a>
 </p>
 
